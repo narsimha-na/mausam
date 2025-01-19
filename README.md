@@ -18,8 +18,9 @@ Mausam - Weather Forecasting App is a cross-platform mobile application built us
 
 ## Screenshots
 (Include screenshots of your app's UI here if available.)
-![App Screenshot 1](https://github.com/narsimha-na/mausam/blob/main/sc2.png =400x300)
-![App Screenshot 2](https://github.com/narsimha-na/mausam/blob/main/sc1.png =400x300)
+<img src="https://github.com/narsimha-na/mausam/blob/main/sc2.png" width="150" height="280">
+
+<img src="https://github.com/narsimha-na/mausam/blob/main/sc1.png" width="150" height="280">
 
 ---
 
