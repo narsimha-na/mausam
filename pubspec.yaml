@@ -1,0 +1,116 @@
+name: mosam
+description: "A new Flutter project."
+publish_to: "none"
+version: 0.1.0
+
+environment:
+  sdk: ^3.5.4
+
+dependencies:
+  flutter:
+    sdk: flutter
+  dio: ^5.7.0
+  envied: ^1.0.1
+  provider: ^6.1.2
+  go_router: ^14.6.3
+  shimmer: ^3.0.0
+  intl: ^0.20.1
+  shared_preferences: ^2.3.5
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+  build_runner: ^2.4.13
+  envied_generator: ^1.0.1
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/
+    - assets/lottie/
+  fonts:
+    - family: poppinsBold
+      fonts:
+        - asset: fonts/Poppins-Bold.ttf
+          weight: 700
+    - family: poppinsMedium
+      fonts:
+        - asset: fonts/Poppins-Medium.ttf
+          weight: 500
+    - family: poppinsRegular
+      fonts:
+        - asset: fonts/Poppins-Regular.ttf
+          weight: 400
+    - family: poppinsSemiBold
+      fonts:
+        - asset: fonts/Poppins-SemiBold.ttf
+          weight: 600
+    - family: poppinsLight
+      fonts:
+        - asset: fonts/Poppins-Light.ttf
+          weight: 300
+    - family: poppinsExtraLight
+      fonts:
+        - asset: fonts/Poppins-ExtraLight.ttf
+          weight: 200
+    - family: poppinsThin
+      fonts:
+        - asset: fonts/Poppins-Thin.ttf
+          weight: 100
+    - family: poppinsBlack
+      fonts:
+        - asset: fonts/Poppins-Black.ttf
+          weight: 900
+    - family: poppinsExtraBold
+      fonts:
+        - asset: fonts/Poppins-ExtraBold.ttf
+          weight: 800
+    - family: poppinsMediumItalic
+      fonts:
+        - asset: fonts/Poppins-MediumItalic.ttf
+          weight: 500
+          style: italic
+    - family: poppinsSemiBoldItalic
+      fonts:
+        - asset: fonts/Poppins-SemiBoldItalic.ttf
+          weight: 600
+          style: italic
+    - family: poppinsBoldItalic
+      fonts:
+        - asset: fonts/Poppins-BoldItalic.ttf
+          weight: 700
+          style: italic
+    - family: poppinsExtraBoldItalic
+      fonts:
+        - asset: fonts/Poppins-ExtraBoldItalic.ttf
+          weight: 800
+          style: italic
+    - family: poppinsBlackItalic
+      fonts:
+        - asset: fonts/Poppins-BlackItalic.ttf
+          weight: 900
+          style: italic
+    - family: poppinsThinItalic
+      fonts:
+        - asset: fonts/Poppins-ThinItalic.ttf
+          weight: 100
+          style: italic
+    - family: poppinsLightItalic
+      fonts:
+        - asset: fonts/Poppins-LightItalic.ttf
+          weight: 300
+          style: italic
+    - family: poppinsExtraLightItalic
+      fonts:
+        - asset: fonts/Poppins-ExtraLightItalic.ttf
+          weight: 200
+          style: italic
+    - family: snigletBold
+      fonts:
+        - asset: fonts/Sniglet-ExtraBold.ttf
+          weight: 800
+    - family: snigletRegular
+      fonts:
+        - asset: fonts/Sniglet-Regular.ttf
+          weight: 400
