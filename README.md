@@ -1,7 +1,7 @@
-# Weather Forecasting App
+# Mausam - Weather Forecasting App
 
 ## Overview
-The Weather Forecasting App is a cross-platform mobile application built using Flutter. It fetches real-time weather data from the OpenWeather API and provides a clean and user-friendly interface to display current weather details and a 3-day forecast. Users can search for a city's weather, toggle between Celsius and Fahrenheit, and save their preferences.
+Mausam - Weather Forecasting App is a cross-platform mobile application built using Flutter. It fetches real-time weather data from the OpenWeather API and provides a clean and user-friendly interface to display current weather details and a 3-day forecast. Users can search for a city's weather, toggle between Celsius and Fahrenheit, and save their preferences.
 
 ---
 
@@ -18,6 +18,8 @@ The Weather Forecasting App is a cross-platform mobile application built using F
 
 ## Screenshots
 (Include screenshots of your app's UI here if available.)
+![App Screenshot 1](https://github.com/narsimha-na/mausam/blob/main/sc2.png)
+![App Screenshot 2](https://github.com/narsimha-na/mausam/blob/main/sc1.png)
 
 ---
 
@@ -30,8 +32,8 @@ The Weather Forecasting App is a cross-platform mobile application built using F
 ### Steps
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/weather_forecast.git
-   cd weather_forecast
+   git clone https://github.com/narsimha-na/mausam.git
+   cd mausam
    ```
 2. Install dependencies:
    ```bash
